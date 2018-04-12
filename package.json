@@ -2,6 +2,7 @@
   "name": "react-fancy-input",
   "version": "1.0.0",
   "description": "This input box shows placeholder progressively. Supports multiple placeholders",
+  "repository": "https://github.com/faysal515/react-fancy-input",
   "main": "dist/index.js",
   "scripts": {
     "start": "webpack --watch",
