@@ -4,12 +4,13 @@
 ![Demo](https://i.stack.imgur.com/Aieip.gif)
 
 ## props
-Accepts any props passed from component
+Accepts any props passed from parent component
 
 | Prop Name | type | default |
 | ------ | ------ | ------ |
 | texts | array(string) | null |
 | delay | number(in millisecond) | 200 |
+| cursor | string | &#124; |
 
 ## Usage
 ```jsx harmony
