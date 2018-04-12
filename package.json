@@ -1,0 +1,26 @@
+{
+  "name": "react-fancy-input",
+  "version": "1.0.0",
+  "description": "This input box shows placeholder progressively. Supports multiple placeholders",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "author": {
+    "name": "Faysal Ahmed",
+    "email": "kawsar.ahmed042@gmail.com"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.1",
+    "react": "^16.3.1"
+  },
+  "devDependencies": {
+    "babel-loader": "^7.1.4",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.6.1",
+    "webpack": "^4.5.0",
+    "webpack-cli": "^2.0.14"
+  }
+}
